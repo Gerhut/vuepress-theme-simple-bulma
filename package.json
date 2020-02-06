@@ -1,0 +1,33 @@
+{
+  "name": "vuepress-theme-simple-bulma",
+  "version": "0.0.0",
+  "description": "A very simple vuepress theme built with bulma.",
+  "scripts": {
+    "dev": "vuepress dev ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerhut/vuepress-theme-simple-bulma.git"
+  },
+  "keywords": [
+    "vuepress",
+    "bulma"
+  ],
+  "files": [
+    "index.js",
+    "layouts",
+    "styles"
+  ],
+  "author": "George Cheng <Gerhut@GMail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Gerhut/vuepress-theme-simple-bulma/issues"
+  },
+  "homepage": "https://github.com/Gerhut/vuepress-theme-simple-bulma#readme",
+  "dependencies": {
+    "bulma": "^0.8.0"
+  },
+  "devDependencies": {
+    "vuepress": "^1.3.0"
+  }
+}

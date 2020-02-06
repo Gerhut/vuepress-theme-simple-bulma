@@ -1,0 +1,5 @@
+title: Example Site
+description: This is an example site for `vuepress-theme-simple-bulma`.
+theme: '.'
+themeConfig:
+  footer: Licensed under <a href="/LICENSE">The Unlicense</a>.
